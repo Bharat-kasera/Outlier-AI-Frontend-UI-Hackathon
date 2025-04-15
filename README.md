@@ -1,56 +1,6 @@
-# Zentry Gaming Experience
-
-## Overview
-Zentry Gaming Experience is an innovative and interactive website designed to captivate gaming enthusiasts. Featuring dynamic animations, engaging video content, and seamless user interactions, this project showcases the future of gaming websites.
-
-## Key Features
-- **Interactive Hero Section**: Engaging video previews and animated text.
-- **Smooth Preloader**: Animated preloader with gaming-themed text.
-- **Magnetic Social Links**: Interactive social media links with a magnetic effect.
-- **Responsive Design**: Optimized for all devices.
-
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/zentry-gaming-experience.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd zentry-gaming-experience
-   ```
-3. Install the dependencies:
-   ```bash
-   npm install
-   ```
-
-## Usage
-1. Start the development server:
-   ```bash
-   npm start
-   ```
-2. Open your browser and visit `http://localhost:3000` to explore the site.
-
-## Technologies Used
-- React
-- Tailwind CSS
-- GSAP
-- Framer Motion
-
-## Contribution
-Contributions are welcome! Feel free to submit issues or pull requests to enhance the project.
-
-## Contact
-For inquiries, please reach out to the project maintainer.
-
----
-
-Explore the Zentry Gaming Experience and discover the future of gaming websites!
-
 <div align="center">
   <br />
-    <a href="https://youtu.be/zA9r5zTllx4" target="_blank">
-      <img src="https://github.com/user-attachments/assets/ab600f24-f4d9-4cef-8f1e-3fd9194afb30" alt="Project Banner">
-    </a>
+    <img src="https://github.com/user-attachments/assets/ab600f24-f4d9-4cef-8f1e-3fd9194afb30" alt="Project Banner">
   <br />
 
   <div>
@@ -59,8 +9,11 @@ Explore the Zentry Gaming Experience and discover the future of gaming websites!
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
   </div>
 
-  <h3 align="center">An Awwwards Winning Website</h3>
+  <h3 align="center">Zentry Gaming Experience</h3>
 
+   <div align="center">
+     Build this project step by step with our detailed tutorial. Join the JSM family!
+    </div>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
@@ -76,6 +29,7 @@ Explore the Zentry Gaming Experience and discover the future of gaming websites!
 ## ⚠️ Disclaimer
 
 All design credits go to **[Zentry](https://zentry.com/)**. This project is created purely for **educational purposes** and is not intended for commercial use or public deployment.
+
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -422,6 +376,7 @@ body {
 </details>
 
 <details>
+  <summary><code>components/RoundedCorners.jsx</code></summary>
 
 ```js
 import React from 'react'
