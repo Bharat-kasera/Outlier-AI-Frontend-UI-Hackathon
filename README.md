@@ -1,22 +1,22 @@
-# Award-Winning Website
+# Zentry Gaming Experience
 
-## Project Description
-This project is a dynamic and interactive website featuring a hero section with video previews, animated text, and a preloader. It includes social media links and a unique design tailored for a gaming audience.
+## Overview
+Zentry Gaming Experience is an innovative and interactive website designed to captivate gaming enthusiasts. Featuring dynamic animations, engaging video content, and seamless user interactions, this project showcases the future of gaming websites.
 
-## Features
-- Animated hero section with video transitions
-- Preloader with animated text
-- Social media links with magnetic effect
-- Responsive design
+## Key Features
+- **Interactive Hero Section**: Engaging video previews and animated text.
+- **Smooth Preloader**: Animated preloader with gaming-themed text.
+- **Magnetic Social Links**: Interactive social media links with a magnetic effect.
+- **Responsive Design**: Optimized for all devices.
 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/award-winning-website.git
+   git clone https://github.com/your-username/zentry-gaming-experience.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd award-winning-website
+   cd zentry-gaming-experience
    ```
 3. Install the dependencies:
    ```bash
@@ -28,7 +28,7 @@ This project is a dynamic and interactive website featuring a hero section with 
    ```bash
    npm start
    ```
-2. Open your browser and visit `http://localhost:3000` to view the website.
+2. Open your browser and visit `http://localhost:3000` to explore the site.
 
 ## Technologies Used
 - React
@@ -36,12 +36,15 @@ This project is a dynamic and interactive website featuring a hero section with 
 - GSAP
 - Framer Motion
 
+## Contribution
+Contributions are welcome! Feel free to submit issues or pull requests to enhance the project.
+
 ## Contact
-For any inquiries, please contact [Bharat Kasera](mailto:your-email@example.com).
+For inquiries, please reach out to the project maintainer.
 
 ---
 
-Feel free to contribute to this project by submitting issues or pull requests. Enjoy exploring the interactive features and design!
+Explore the Zentry Gaming Experience and discover the future of gaming websites!
 
 <div align="center">
   <br />
@@ -58,9 +61,6 @@ Feel free to contribute to this project by submitting issues or pull requests. E
 
   <h3 align="center">An Awwwards Winning Website</h3>
 
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
@@ -76,15 +76,6 @@ Feel free to contribute to this project by submitting issues or pull requests. E
 ## ⚠️ Disclaimer
 
 All design credits go to **[Zentry](https://zentry.com/)**. This project is created purely for **educational purposes** and is not intended for commercial use or public deployment.
-
-
-## 🚨 Tutorial
-
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>.
-
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
-
-<a href="https://youtu.be/zA9r5zTllx4" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
 
 ## <a name="introduction">🤖 Introduction</a>
 
