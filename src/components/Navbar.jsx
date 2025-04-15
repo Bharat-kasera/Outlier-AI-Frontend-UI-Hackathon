@@ -70,58 +70,59 @@ const NavBar = () => {
     >
       <header className="absolute top-1/2 w-full -translate-y-1/2">
         <nav className="flex size-full items-center justify-between p-4">
-          <div className="hidden md:flex items-center font-general uppercase  text-white cursor-pointer group">
-            <p
-              className="
-              
-          m-0
-          transition-all duration-500
-          ease-[cubic-bezier(0.76,0,0.24,1)]
-          group-hover:rotate-[360deg]
-        "
+          <div className="hidden md:flex items-center font-general uppercase text-white cursor-pointer group">
+            <a
+              href="https://github.com/Bharat-kasera/Outlier-AI-Frontend-UI-Hackathon"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex items-center"
             >
-              ©
-            </p>
+              <p
+                className="
+                m-0
+                transition-all duration-500
+                ease-[cubic-bezier(0.76,0,0.24,1)]
+                group-hover:rotate-[360deg]"
+              >
+                ©
+              </p>
 
-            <div
-              className="
-          relative flex overflow-hidden whitespace-nowrap ml-[5px]
-          transition-all duration-500
-          ease-[cubic-bezier(0.76,0,0.24,1)]
-          group-hover:pr-[30px]
-        "
-            >
-              <p
+              <div
                 className="
-            relative
-            transition-transform duration-500
-            ease-[cubic-bezier(0.76,0,0.24,1)]
-            group-hover:-translate-x-full
-          "
+                relative flex overflow-hidden whitespace-nowrap ml-[5px]
+                transition-all duration-500
+                ease-[cubic-bezier(0.76,0,0.24,1)]
+                group-hover:pr-[30px]"
               >
-                Code by
-              </p>
-              <p
-                className="
-            relative pl-[0.3em]
-            transition-transform duration-500
-            ease-[cubic-bezier(0.76,0,0.24,1)]
-            group-hover:-translate-x-[65px]
-          "
-              >
-                Bharat
-              </p>
-              <p
-                className="
-            absolute left-[130px] pl-[0.3em]
-            transition-transform duration-500
-            ease-[cubic-bezier(0.76,0,0.24,1)]
-            group-hover:-translate-x-[65px]
-          "
-              >
-                Kasera
-              </p>
-            </div>
+                <p
+                  className="
+                  relative
+                  transition-transform duration-500
+                  ease-[cubic-bezier(0.76,0,0.24,1)]
+                  group-hover:-translate-x-full"
+                >
+                  Code by
+                </p>
+                <p
+                  className="
+                  relative pl-[0.3em]
+                  transition-transform duration-500
+                  ease-[cubic-bezier(0.76,0,0.24,1)]
+                  group-hover:-translate-x-[65px]"
+                >
+                  Bharat
+                </p>
+                <p
+                  className="
+                  absolute left-[130px] pl-[0.3em]
+                  transition-transform duration-500
+                  ease-[cubic-bezier(0.76,0,0.24,1)]
+                  group-hover:-translate-x-[65px]"
+                >
+                  Kasera
+                </p>
+              </div>
+            </a>
           </div>
 
           {/* Navigation Links and Audio Button */}
