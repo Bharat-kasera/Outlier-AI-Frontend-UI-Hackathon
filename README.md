@@ -1,3 +1,48 @@
+# Award-Winning Website
+
+## Project Description
+This project is a dynamic and interactive website featuring a hero section with video previews, animated text, and a preloader. It includes social media links and a unique design tailored for a gaming audience.
+
+## Features
+- Animated hero section with video transitions
+- Preloader with animated text
+- Social media links with magnetic effect
+- Responsive design
+
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/award-winning-website.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd award-winning-website
+   ```
+3. Install the dependencies:
+   ```bash
+   npm install
+   ```
+
+## Usage
+1. Start the development server:
+   ```bash
+   npm start
+   ```
+2. Open your browser and visit `http://localhost:3000` to view the website.
+
+## Technologies Used
+- React
+- Tailwind CSS
+- GSAP
+- Framer Motion
+
+## Contact
+For any inquiries, please contact [Bharat Kasera](mailto:your-email@example.com).
+
+---
+
+Feel free to contribute to this project by submitting issues or pull requests. Enjoy exploring the interactive features and design!
+
 <div align="center">
   <br />
     <a href="https://youtu.be/zA9r5zTllx4" target="_blank">
